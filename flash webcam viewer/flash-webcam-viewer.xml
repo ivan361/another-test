@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Camera>
+  <StreamURL>http://webcams.pancanal.com/webcam/miraflores.jpg</StreamURL> 
+  <Refresh>10</Refresh> 
+  <Action>NoAction</Action>
+  <Target>_blank</Target>
+  <Snaps>100</Snaps>
+  <SlowRefresh>900</SlowRefresh>
+</Camera>
+
